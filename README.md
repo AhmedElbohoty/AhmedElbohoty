@@ -24,6 +24,6 @@
 
 ## Profiles
 
-- **Linkedin:** [AhmedElbohoty](https://www.linkedin.com/in/ahmed-elbohoty/)
-- **GitHub:** [AhmedElbohoty](https://github.com/AhmedElbohoty)
-- **Frontend Mentor:** [AhmedElbohoty](https://www.frontendmentor.io/profile/AhmedElbohoty)
+- [**Linkedin**](https://www.linkedin.com/in/ahmed-elbohoty/)
+- [**GitHub**](https://github.com/AhmedElbohoty)
+- [**Frontend Mentor**](https://www.frontendmentor.io/profile/AhmedElbohoty)
