@@ -1,6 +1,6 @@
 # README
 
-👋 **Hi there!** I'm **Ahmed Ramzi Elbohoty**, a passionate frontend developer with over 4 years of experience specializing in building web applications using **React**, **Typescript**, and **CSS**. My journey began in dentistry, but I soon discovered my love for web development, which has shaped my career today.
+👋 **Hi there!** I'm **Ahmed Elbohoty**, a passionate frontend developer with over 4 years of experience specializing in building web applications using **React**, **Typescript**, and **CSS**. My journey began in dentistry, but I soon discovered my love for web development, which has shaped my career today.
 
 ## Skills and Expertise
 
