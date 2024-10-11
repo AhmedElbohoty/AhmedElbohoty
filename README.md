@@ -7,7 +7,7 @@
 🎨 I am committed to converting designs into pixel-perfect implementations using CSS, ensuring that every detail is faithfully represented. I’m also eager to expand my skill set into **UI design** in the future, aiming to enhance user experiences in my projects.
 
 
-🌱 I hold a certification in [**software engineering with focus on Frontend development**] (https://intranet.alxswe.com/certificates/cn859yNBMm) from ALX Africa and [**Frontend development**] (https://drive.google.com/file/d/1jK8QkVUusaQ5hRneYVJdJmtKtgTbymiB/view) from the One Million Arab Coders initiative. 
+🌱 I hold a certification in [**software engineering with focus on Frontend development**](https://intranet.alxswe.com/certificates/cn859yNBMm) from ALX Africa and [**Frontend development**](https://drive.google.com/file/d/1jK8QkVUusaQ5hRneYVJdJmtKtgTbymiB/view) from the One Million Arab Coders initiative. 
 
 ✨ I worked as a **Senior Frontend Developer** at **qrunchin**, where I helped transform everyday spreadsheets into actionable business insights.
 
